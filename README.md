@@ -1,6 +1,6 @@
-# READEME.md
-## READEME.md
-### READEME.md
-#### READEME.md
-##### READEME.md
+# README.md
+## README.md
+### README.md
+#### README.md
+##### README.md
 GidHubのリモートリポジトリの練習用
