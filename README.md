@@ -10,3 +10,5 @@ GidHubのリモートリポジトリの練習用
 + aaaaa
 + bbbbb
 + ccccc
+- [ ] タスク1
+- [x] タスク2
